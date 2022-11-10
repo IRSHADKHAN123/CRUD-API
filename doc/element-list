@@ -1,0 +1,5 @@
+com.java.springboot.test.springbootbackend
+com.java.springboot.test.springbootbackend.controller
+com.java.springboot.test.springbootbackend.exception
+com.java.springboot.test.springbootbackend.model
+com.java.springboot.test.springbootbackend.repository
